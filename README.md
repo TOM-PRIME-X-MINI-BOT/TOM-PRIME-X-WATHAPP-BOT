@@ -25,9 +25,12 @@
 
 <br/>
 
-[![Stars](https://img.shields.io/badge/STARS-0-555?style=for-the-badge)](https://github.com)
-[![Forks](https://img.shields.io/badge/FORKS-0-00C896?style=for-the-badge)](https://github.com)
-[![Issues](https://img.shields.io/badge/ISSUES-0%20OPEN-FFC107?style=for-the-badge)](https://github.com)
+<!-- AUTO COUNT BADGES -->
+[![Stars](https://img.shields.io/github/stars/yourusername/TOM-PRIME-X-MINI?style=for-the-badge&color=00ff88&label=Stars)](https://github.com/yourusername/TOM-PRIME-X-MINI/stargazers)
+[![Forks](https://img.shields.io/github/forks/yourusername/TOM-PRIME-X-MINI?style=for-the-badge&color=5865F2&label=Forks)](https://github.com/yourusername/TOM-PRIME-X-MINI/network/members)
+[![Issues](https://img.shields.io/github/issues/yourusername/TOM-PRIME-X-MINI?style=for-the-badge&color=FFC107&label=Issues)](https://github.com/yourusername/TOM-PRIME-X-MINI/issues)
+[![Size](https://img.shields.io/github/repo-size/yourusername/TOM-PRIME-X-MINI?style=for-the-badge&color=FF0000&label=Size)](https://github.com/yourusername/TOM-PRIME-X-MINI)
+[![Views](https://komarev.com/ghpvc/?username=yourusername&repo=TOM-PRIME-X-MINI&style=for-the-badge&color=00d26a&label=Views)](https://github.com/yourusername/TOM-PRIME-X-MINI)
 [![Channel](https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com)
 
 </div>
