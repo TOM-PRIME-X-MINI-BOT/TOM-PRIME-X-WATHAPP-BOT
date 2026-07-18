@@ -1,6 +1,7 @@
 /**
  * Global Configuration for WhatsApp Tom Bot
  * Devolop By Majidul Islam Zihad
+ */
 
 module.exports = {
     // Bot Owner Configuration
